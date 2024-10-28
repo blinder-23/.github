@@ -12,6 +12,9 @@
 
 <a href='https://play.google.com/store/apps/details?id=com.practice.hanbitlunch&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='블린더 다운로드하기 Google Play' width=250 src='https://play.google.com/intl/ko/badges/static/images/badges/ko_badge_web_generic.png'/></a>
 
+<a href='https://apps.apple.com/kr/app/blindar/id6569233231'><img alt='블린더 다운로드하기 apple store' width=250 src='https://github.com/user-attachments/assets/eee2bd47-c903-4565-93c8-6251a0030624'></a>
+
+
 ## 주요 기능
 * 식단 및 학사일정 정보 제공
 * 당일 식단 및 일정 알림
